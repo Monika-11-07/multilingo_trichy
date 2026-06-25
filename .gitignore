@@ -1,2 +1,5 @@
-__pycache__/ 
-*.log
+__pycache__/
+*.pyc
+users.db
+train_notifications.log
+.env
